@@ -1,0 +1,6 @@
+[submodule "CSCI 362/Tardigrades"]
+	path = CSCI 362/Tardigrades
+	url = https://github.com/jasonboulware/Tardigrades.git
+[submodule "CSCI 340/CSCI-340-Final-Project"]
+	path = CSCI 340/CSCI-340-Final-Project
+	url = https://github.com/jasonboulware/CSCI-340-Final-Project.git
