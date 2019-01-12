@@ -1,0 +1,2 @@
+# DNA-Pair
+This class takes two inputs of strings consisting of both upper and lower case A, G, C, and T. If either input is empty, the program returns an undefined strand error. If the string's length are different, a message is shown to tell the user this.  If any other string other than A, G, C, or T is typed, then an error is shown. If all of these conditions are within the standard of the program, then the program will either output the combination of the two inputs are correct, or the bottom strand will be corrected. 
